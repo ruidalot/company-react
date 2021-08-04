@@ -58,6 +58,12 @@ code {
   font-weight: bold;
 }
 
+.links_navigation a {
+  text-decoration: none;
+  padding: 10px;
+  color: antiquewhite;
+}
+
 #navb li:hover {
   background-color: rgb(148, 209, 233);
   border-radius: 12px;
